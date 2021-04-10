@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pritxxh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @pritesh
+- 👀 I’m interested in JavaScript, Python, SwiftUI
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Simple as well as complex projects 
+- 📫 How to reach me pritxxh@yahoo.com
 
 <!---
 pritxxh/pritxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
