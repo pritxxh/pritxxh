@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritesh
-- 👀 I’m interested in JavaScript, Python, SwiftUI
-- 🌱 I’m currently learning Java
+- 👀 I’m a full-stack-developer
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on Simple as well as complex projects 
 - 📫 How to reach me pritxxh@yahoo.com
 
